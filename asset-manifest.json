@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bizicoPractice/static/css/main.86473d3e.chunk.css",
+    "main.js": "/bizicoPractice/static/js/main.801c480e.chunk.js",
+    "main.js.map": "/bizicoPractice/static/js/main.801c480e.chunk.js.map",
+    "runtime-main.js": "/bizicoPractice/static/js/runtime-main.3540215c.js",
+    "runtime-main.js.map": "/bizicoPractice/static/js/runtime-main.3540215c.js.map",
+    "static/js/2.b49b2f5b.chunk.js": "/bizicoPractice/static/js/2.b49b2f5b.chunk.js",
+    "static/js/2.b49b2f5b.chunk.js.map": "/bizicoPractice/static/js/2.b49b2f5b.chunk.js.map",
+    "index.html": "/bizicoPractice/index.html",
+    "precache-manifest.cad48473fa81fd4bb2320376b33ff94c.js": "/bizicoPractice/precache-manifest.cad48473fa81fd4bb2320376b33ff94c.js",
+    "service-worker.js": "/bizicoPractice/service-worker.js",
+    "static/css/main.86473d3e.chunk.css.map": "/bizicoPractice/static/css/main.86473d3e.chunk.css.map",
+    "static/js/2.b49b2f5b.chunk.js.LICENSE.txt": "/bizicoPractice/static/js/2.b49b2f5b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3540215c.js",
+    "static/js/2.b49b2f5b.chunk.js",
+    "static/css/main.86473d3e.chunk.css",
+    "static/js/main.801c480e.chunk.js"
+  ]
+}
