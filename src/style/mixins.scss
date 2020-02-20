@@ -1,0 +1,43 @@
+$blue-color: #007bff;
+
+@mixin text-Montserrat-Subrayada() {
+  font-family: "Montserrat Subrayada", sans-serif;
+  font-size: 1.2em;
+}
+.headings-white {
+  @include text-Montserrat-Subrayada();
+  color: white;
+}
+.headings-black {
+  @include text-Montserrat-Subrayada();
+  color: black;
+}
+
+
+
+@mixin text-Gloria-Hallelujah() {
+  font-family: "Gloria Hallelujah", cursive;
+  font-size: 1.8em;
+}
+.headings2-white {
+  @include text-Gloria-Hallelujah();
+  color: white;
+}
+.headings2-black {
+  @include text-Gloria-Hallelujah();
+  color: black;
+}
+
+
+
+@mixin text-Cinzel() {
+  font-family: "Cinzel", serif;
+}
+.text-white {
+  @include text-Cinzel();
+  color: white;
+}
+.text-black {
+  @include text-Cinzel();
+  color: black;
+}

@@ -1,0 +1,5 @@
+[0212/124642.495:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0212/125923.688:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0213/094251.553:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0213/094251.554:ERROR:exception_snapshot_win.cc(98)] thread ID 1952 not found in process
+[0213/094251.591:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Попытка доступа к процессу, выполняющему процедуру завершения. (0xc000010a)

@@ -1,0 +1,65 @@
+.team-img.thumbnail {
+  object-fit: contain;
+  width: 24vw;
+  height: 93vh;
+}
+
+/* Buttons */
+.site-btn {
+  font-size: 14px;
+  padding: 13px 30px;
+  border-radius: 5px;
+  border: 1px solid #b40028;
+  min-width: 200px;
+  display: inline-block;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+  color: #b40028;
+  background-color: transparent;
+  transition: all 0.25s ease-in-out;
+  margin: 10px 0px 10px 0px;
+}
+.site-btn:hover {
+  background: #b40028;
+  border: 1px solid #fff;
+  font-weight: 700px;
+}
+
+.lg-text {
+  font-size: 52px;
+  font-weight: 600;
+  text-transform: none;
+  color: #fff;
+}
+.image-aboutus-para {
+  color: #fff;
+}
+
+/* Breadcum bar */
+.bread-bar {
+  background: #f9f9f9;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  min-height: 40px;
+  height: auto;
+  position: relative;
+  z-index: 555;
+}
+.breadcrumb {
+  background: none;
+  margin: 0;
+  font-weight: 300;
+  padding-left: 0;
+  font-size: 13px;
+}
+.breadcrumb a {
+  color: #999;
+}
+.breadcrumb > .active {
+  color: #666;
+}
+.breadcrumb > li + li::before {
+  content: "\203A";
+  color: #999;
+  padding: 0 8px;
+}

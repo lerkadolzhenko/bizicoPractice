@@ -1,0 +1,16 @@
+@import "../../style/mixins.scss";
+
+.disabledBtn {
+  pointer-events: none;
+}
+.disabledBtn > span {
+  color: grey;
+}
+
+.btnHover {
+  pointer-events: auto;
+}
+.btnHover > span:active {
+  background-color: $blue-color;
+  color: white;
+}

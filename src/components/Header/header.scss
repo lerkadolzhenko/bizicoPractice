@@ -1,0 +1,9 @@
+@import "../../style/mixins.scss";
+
+.header {
+  background-color: $blue-color;
+}
+
+a.nav-link.headings-white.link-color{
+    color: rgb(255, 255, 255);
+}
